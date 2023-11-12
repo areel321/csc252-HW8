@@ -2,4 +2,49 @@ Alabama,Tennessee;Georgia;Mississippi;Florida
 Alaska,
 Arizona,New Mexico;California;Nevada;Utah
 Arkansas,Missouri;Tennessee;Mississippi;Louisiana;Texas;Oklahoma
-Tennessee,
+California,Oregon;Nevada;Arizona
+Colorado,Wyoming;Nebraska;Kansas;Oklahoma;New Mexico;Utah;Arizona
+Connecticut,Massachussetts;Rhode Island;New York
+Delaware,New Jersey;Pennsylvania;Maryland
+Florida,Georgia;Alabama
+Georgia,Tennessee;South Carolina;Florida;Alabama
+Hawaii,
+Idaho,Montana;Wyoming;Nevada;Utah;Washington;Oregon
+Illinois,Wisconsin;Indiana;Kentucky;Missouri;Iowa
+Indiana,Michigan;Ohio;Kentucky;Illinois
+Iowa,Minnesota;Wisconsin;Illinois;Missouri;Nebraska;South Dakota
+Kansas,Nebraska;Missouri;Oklahoma;Colorado
+Kentucky,Indiana;Ohio;West Virginia;Tennessee;Missouri;Illinois
+Louisiana,Arkansas;Mississippi;Texas
+Maine,New Hampshire
+Montana,North Dakota;South Dakota;Wyoming;Idaho
+Nebraska,South Dakota;Iowa;Missouri;Kansas;Colorado;Wyoming
+Nevada,Oregon;Idaho;Utah;Arizona;California
+New Hampshire,Vermont;Maine;Massachussetts
+New Jersey,New York;Delaware;Pennsylvania
+New Mexico,Colorado;Oklahoma;Texas;Arizona
+New York,Vermont;Massachussetts;Connecticut;New Jersey;Pennsylvania
+North Carolina,Virginia;Tennessee;Georgia;South Carolina
+North Dakota,Minnesota;South Dakota;Montana
+Ohio,Michigan;Pennsylvania;West Virginia;Kentucky;West Virginia;Indiana
+Oklahoma,Colorado;Kansas;Missouri;Arkansas;Texas;New Mexico
+Oregon,Washington;Idaho;Nevada;California
+Maryland,Pennsylvania;Delaware;Virginia;West Virginia
+Massachussetts,New Hampshire;Vermont;Rhode Island;Connecticut;New York
+Michigan,Indiana;Ohio;Wisconsin
+Minnesota,North Dakota;South Dakota;Iowa
+Mississippi,Tennessee;Alabama;Louisiana;Arkansas
+Missouri,Iowa;Illinois;Kentucky;Tennessee;Arkansas;Oklahoma;Kansas;Nebraska
+Pennsylvania,New York;New Jersey;Delaware;Maryland;West Virginia;Ohio
+Rhode Island,Connecticut;Massachussetts
+South Carolina,North Carolina;Georgia
+South Dakota,North Dakota;Minnesota;Iowa;Nebraska;Wyoming;Montana
+Tennessee,Kentucky;Virginia;North Carolina;Georgia;Alabama;Mississippi;Arkansas;Missouri
+Texas,New Mexico;Oklahoma;Arkansas;Louisiana
+Utah,Colorado;Wyoming;Arizona;Idaho;Nevada
+Vermont,Massachussetts;New Hampshire;New York
+Virginia,Maryland;West Virginia;Kentucky;Tennessee;North Carolina
+Washington,Idaho;Oregon
+West Virginia,Ohio;Pennsylvania;Maryland;Virginia;Kentucky;Ohio
+Wisconsin,Illinois;Iowa;Minnesota;Michigan
+Wyoming,Montana;South Dakota;Nebraska;Colorado;Utah;Idaho
